@@ -15,3 +15,6 @@
 3. 输入'python3 main.py'或'python main.py'，其中一个将起作用。
 
 4. 开始玩吧！
+
+
+注释： 建议下载“_app”结尾的zip, 然后解压，点击minecraftfortress替身即可（for mac）
